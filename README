@@ -1,0 +1,17 @@
+codeswitch2 firmware compiler options:
+
+(see firmware/codeswitch2/samd11/compiler.png for Atmel Studio)
+
+KEYPAD_INTEGRATED=n  (n=0: membrane keypad n=1: integrated keypad)
+LCD=n                (n=0: Bottom          n=1: Top)
+TESTING=n            (n=0: no              n=1: yes)
+
+
+
+For Helen use:
+KEYPAD_INTEGRATED=1
+LCD=0
+
+For alt Chinese use:
+KEYPAD_INTEGRATED=0
+LCD=1

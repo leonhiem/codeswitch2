@@ -1,0 +1,15 @@
+1. download pySerial library from:
+
+https://pypi.python.org/pypi/pyserial
+(for Windows you need the .whl file, for Linux the .tar.gz file)
+
+
+2. install pySerial, run in cmd (Windows example):
+pip install downloadedfile.whl
+
+3. modify the readid.py script: Check your COM port
+
+4. run in cmd:
+python readid.py
+
+

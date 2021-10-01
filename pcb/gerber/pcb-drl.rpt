@@ -1,0 +1,28 @@
+Drill report for /home/leon/Kamworks/codeswitch2/pcb/pcb.kicad_pcb
+Created on Mon 29 Jan 2018 09:07:18 PM CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'pcb.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (28 holes)
+    T2  0.60mm  0.024"  (48 holes)
+    T3  0.65mm  0.026"  (10 holes)
+    T4  1.00mm  0.039"  (36 holes)
+    T5  1.30mm  0.051"  (12 holes)
+    T6  3.20mm  0.126"  (7 holes)
+    T7  6.70mm  0.264"  (1 hole)
+
+    Total plated holes count 142
+
+
+Drill file 'pcb-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
